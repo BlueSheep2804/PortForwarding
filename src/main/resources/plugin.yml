@@ -1,7 +1,7 @@
 name: PortForwarding
 version: '${version}'
 main: io.github.bluesheep2804.portforwarding.PortForwarding
-api-version: '1.13'
+api-version: '1.18'
 load: STARTUP
 author: BlueSheep2804
 description: Plugin to enable port forwarding, using Ngrok.
